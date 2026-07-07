@@ -2,8 +2,8 @@ import { useState } from "react";
 
 // ─── Mock Data ────────────────────────────────────────────────────────────────
 const MOCK_USER = {
-  nome: "Jaykson Silva",
-  matricula: "2024INFO042",
+  nome: "Jaykson Gostoso",
+  matricula: "2025310052",
   curso: "Técnico em Informática",
   turma: "2º ADM",
 };
